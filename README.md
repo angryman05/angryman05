@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm a 2nd year CS student at the Technical Univesity of Cluj-Napoca(TUCN / UTCN).
-#Experience
+# Experience
 I have worked on [andreatoth.ro](https://www.andreatoth.ro/) and now I'm maintaining it.
 
 
