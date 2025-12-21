@@ -2,6 +2,7 @@
 I'm a 2nd year CS student at the Technical Univesity of Cluj-Napoca(TUCN / UTCN).
 # Experience
 I have worked on [andreatoth.ro](https://www.andreatoth.ro/) and now I'm maintaining it.
+I did a remake of my FIRST TECH CHALLENGE team's website(ui and everything) [atomicbots.cnam.ro](https://atomicbots.cnam.ro/)
 
 
 ## 🌐 Socials:
