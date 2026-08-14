@@ -16,6 +16,7 @@ Check my other cool public repos!!
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=plastic&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=angryman05)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=angryman05&rank_icon=github&custom_title=angryman05%27s%20progress%20so%20far%20%3AD&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api?username=angryman05&rank_icon=github&custom_title=angryman05%27s%20progress%20so%20far%20%3AD&show_icons=true&include_all_commits=true&theme=vue-dark)
+<br/>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=angryman05&langs_count=9&hide_values=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=angryman05&langs_count=9&hide_values=true&theme=vue-dark)
 
