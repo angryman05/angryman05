@@ -17,4 +17,5 @@ Check my other cool public repos!!
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=angryman05)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=angryman05&langs_count=9&hide_values=true&theme=vue-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=angryman05&langs_count=9&hide_values=true&theme=vue-dark)
 
