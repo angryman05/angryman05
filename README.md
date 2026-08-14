@@ -1,10 +1,11 @@
 # 💫 About Me:
-I'm a 2nd year CS student at the Technical Univesity of Cluj-Napoca(TUCN / UTCN).
+I'm a 3rd year CS student at the Technical Univesity of Cluj-Napoca(TUCN / UTCN).
 # Experience
 I have worked on [andreatoth.ro](https://www.andreatoth.ro/) and now I'm maintaining it.
 <br/>
 I did a remake of my FIRST TECH CHALLENGE team's website(ui and everything) [atomicbots.cnam.ro](https://atomicbots.cnam.ro/)
-
+<br/>
+Check my other cool public repos!!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxbi.05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robert-simionescu-49985b387) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:robertsmario21@gmail.com) 
