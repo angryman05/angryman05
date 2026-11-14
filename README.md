@@ -4,6 +4,7 @@ I'm a 3rd year CS student at the Technical Univesity of Cluj-Napoca(TUCN / UTCN)
 I have worked on [andreatoth.ro](https://www.andreatoth.ro/) and now I'm maintaining it.
 <br/>
 I did a remake of my FIRST TECH CHALLENGE team's website(ui and everything) [atomicbots.cnam.ro](https://atomicbots.cnam.ro/)
+<br/>
 I made the Veres bakery website [brutariaveres.ro](https://brutariaveres.ro/)
 <br/>
 Check my other cool public repos!!
